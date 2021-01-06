@@ -4,47 +4,47 @@
     "servers": [
       {
         "host": "c.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "ce.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "c4.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "c5.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "c6.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "a.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "s.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "delta.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "osu.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "i.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       },
       {
         "host": "bm6.ppy.sh",
-        "newTarget": "78.154.24.29"
+        "newTarget": "83.228.11.16"
       }
     ]
   }
